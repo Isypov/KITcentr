@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<meta charset="utf-8">
+		<meta name="keywords" content=""
+		<meta name="description" content=""
+		<title>KIT Center HOmework </title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	<header>
+		<h1>Isypov P.S.</h1>
+
+		<hr>
+		<ul class="menu">
+			<h1> </h1>
+			<li><a href="Home.html"> Home</a></li>
+			<li><a href="About me.html"> About me</a></li>
+			<li><a href="cont.html"> Contacts </a></li>
+					 
+ 
+ </div>
+
+	
+		</ul>
+       <hr>
+    </header>
+</head>
+<body>
+<h1>Мои предложения </h1>
+<p>Первый абзац.</p>
+ <p>Второй абзац.</p>
+</body>
+<form>
+
+</form>
+<footer>
+		<span>Copyright Isypov 2018</span>
+	</footer>
+	</body>
+</html>
+</html>
